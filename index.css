@@ -1,0 +1,18 @@
+.card{
+  height:200px;
+  width:150px;
+  background-color: red;
+}
+.iconShown{
+  width:inherit;
+}
+.iconHidden{
+  width:inherit;
+
+}
+#root{
+  background-color: green;
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items:center;
+}
